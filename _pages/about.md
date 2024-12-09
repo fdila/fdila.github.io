@@ -10,17 +10,19 @@ In my free time I also like making music and doing calisthenics.
 
 ## Experience
 
-### Junior Research Assistant - Università di Milano Bicocca (2020 - present)
+### PhD Student - Università di Milano Bicocca (2023 - present)
 
-I'm currently working in the robotics lab of my University: [https://ira.disco.unimib.it/](https://ira.disco.unimib.it/)
+Currently I'm in my second PhD year.
+My interest lies in robotics perception, and in particular I am working with 3D perception and SLAM algorithms.
 
-We are working on a self driving golf cart.
+### Junior Research Assistant - Università di Milano Bicocca (2020 - 2023)
+Working on a self driving golf cart, with the robotics lab of my University: [https://ira.disco.unimib.it/](https://ira.disco.unimib.it/)
 
 I have worked both on the hardware/firmware and on the high-level software, using the framework ROS.
 
-### Tutor for the course "Computer Architecture" - Università di Milano Bicocca (2020 - present)
+### Tutor for the course "Computer Architecture" - Università di Milano Bicocca (2020 - 2024)
 
-I'm a tutor for the Computer Architecture course.
+I was a tutor for the Computer Architecture course.
 
 I also built a MIPS simulator in logisim-evolution for the course laboratories, it can be found [here](https://github.com/fdila/MIPS-multicycle-datapath)
 
