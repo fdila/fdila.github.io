@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Federica Di Lauro"
-  avatar : "/assets/images/me.jpg"
+  avatar : "/assets/images/me.png"
   bio    : "PhD student at Università di Milano Bicocca"
   location: "Milan, Italy"
   links:
